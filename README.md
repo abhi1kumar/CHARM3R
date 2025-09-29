@@ -62,7 +62,7 @@ This is tested with NVIDIA A100 GPU. Other platforms have not been tested. Clone
 
 ```bash
 git clone https://github.com/abhi1kumar/CHARM3R.git
-cd DEVIANT
+cd CHARM3R
 ```
 
 - **Cuda & Python**
@@ -80,7 +80,7 @@ pip install opencv-python pandas kornia==0.6.6
 Follow instructions of [data_setup_README.md](data/data_setup_README.md) to setup CARLA, CODa, KITTI, nuScenes and Waymo as follows:
 
 ```bash
-DEVIANT
+CHARM3R
 ├── data
 │      ├── carla
 │      │      ├── ImageSets
@@ -178,7 +178,7 @@ sudo apt-get install libopenblas-dev libboost-dev libboost-all-dev gfortran
 sh data/KITTI/kitti_split1/devkit/cpp/build.sh
 ```
 
-We finally setup the Waymo evaluation. The Waymo evaluation is setup in a different environment `py36_waymo_tf` to avoid package conflicts with our DEVIANT environment:
+We finally setup the Waymo evaluation. The Waymo evaluation is setup in a different environment `py36_waymo_tf` to avoid package conflicts with our CHARM3R environment:
 
 ```bash
 # Set up environment
