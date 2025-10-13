@@ -4,7 +4,8 @@
 
 # [CHARM3R: Towards Unseen Camera Height Robust Monocular 3D Detector](https://arxiv.org/pdf/2508.11185)
 
-### [Project] | [Talk] | [Slides] | [Poster]
+### [Talk](https://www.youtube.com/watch?v=LzCLmAPCXWw) | [Slides](https://docs.google.com/presentation/d/1-xwMQfuMVo2Mpu0gzGAa-LJef2oM-8pu46sMNLnfhZI) | [Poster](https://docs.google.com/presentation/d/1ulJeJQ-PD_WnoR2hwPf5Mpgkkc6pXkkYrfBUlj2XDAQ/)
+
 
 [![arXiv](http://img.shields.io/badge/arXiv-2508.11185-B31B1B.svg)](https://arxiv.org/abs/2508.11185)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
